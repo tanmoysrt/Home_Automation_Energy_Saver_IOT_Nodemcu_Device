@@ -19,17 +19,18 @@ What things you need to install the software and how to install them
 #### 1. [000webhost.com For free webhosting](https://000webhost.com)
 #### 2. [Arduino IDE Download](https://www.arduino.cc/en/Main/Software)
 #### 3. [MIT App Inventor](http://ai2.appinventor.mit.edu)
+#### 4. [Github Respirartory](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_Device)
 ### Installing
 
 ##### A Step By Step Installation Guide
 
 ###### Website Installation
 
-1. Download the code from github respiratory https://github.com/Tanmoy741127/Home_Automation_-_Energy_Saver_Device.git
+1. Download the code from [github respiratory](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_Device/)
 2. Create free hosting account at [000webhost.com](https://000webhost.com)
 3. Create Database
 4. Go to phpMyadmin from 000webhost dashboard
-5. Open MySql_Sample.sql file in any text editor
+5. Open [MySql_Sample.sql](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_Device/blob/master/MySql_Sample.sql) file in any text editor
 6. Replace the 'id11628615_data' with your database name
 7. Import the MySql_Sample.sql file in database
 8. Upload all the files in your website
@@ -57,7 +58,7 @@ What things you need to install the software and how to install them
 
 ##### Generate Android App
 
-1. Download [Home_Automation_Android_App.aia](https://github.com/Tanmoy741127/Home_Automation_-_Energy_Saver_Device/blob/master/Android%20App/Home_Automation_Android_App.aia)
+1. Download [Home_Automation_Android_App.aia](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_Device/blob/master/Android%20App/Home_Automation_Android_App.aia)
 2. Login to [MIT App Inventor](http://ai2.appinventor.mit.edu)
 3. Import the file
 4. From Coding Window, change ""EXAMPLE.COM"" with your website address
