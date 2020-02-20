@@ -72,7 +72,10 @@ What things you need to install the software and how to install them
 1. Add all the sensor , led, relay to Nodemcu's respective pin
 2. Start Nodemcu
 3. Type your website name in browser
-4. If you see something like that , then all is completed
+4. If you see something like that , then you are done....
+
+
+![alt text](https://github.com/Tanmoy741127/Home_Automation_-_Energy_Saver_Device/blob/master/Website%20Code/screenshot.PNG)
 5. Now Enjoy It
 
 
