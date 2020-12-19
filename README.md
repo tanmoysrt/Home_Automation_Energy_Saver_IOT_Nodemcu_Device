@@ -1,9 +1,9 @@
 # Home_Automation_Energy_Saver_IOT_NODEMCU_Device
 Home Automation &amp; Energy Saver Device . This include Nodemcu Full Code , Website Installation Files and Android Application with Nodemcu Esp8266 based Fully Free IOT System
 ## Preview of Android App
-![alt text](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/blob/master/Android%20App/Screenshot4.jpeg)
-![alt text](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/blob/master/Android%20App/Screenshot2.jpeg)
-![alt text](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/blob/master/Android%20App/Screenshot3.jpeg)
+![alt text](https://raw.githubusercontent.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/master/Android%20App/Screenshot4.jpeg)
+![alt text](https://raw.githubusercontent.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/master/Android%20App/Screenshot2.jpeg)
+![alt text](https://raw.githubusercontent.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/master/Android%20App/Screenshot3.jpeg)
 
 ## Getting Started
 
@@ -80,7 +80,7 @@ What things you need to install the software and how to install them
 4. If you see something like that , then you are done....
 
 
-![alt text](https://github.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/blob/master/Website%20Code/screenshot.PNG)
+![alt text](https://raw.githubusercontent.com/Tanmoy741127/Home_Automation_Energy_Saver_IOT_Nodemcu_Device/master/Website%20Code/screenshot.PNG)
 5. Now Enjoy It
 
 
